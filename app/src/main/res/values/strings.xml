@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLKitDocumentScanner</string>
+    <string name="first_fragment_label">Digitize Your Documents</string>
+    <string name="open_scanner">Open Scanner</string>
+</resources>
