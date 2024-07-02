@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.bensek.mlkitdocumentscanner.FirstFragment"
+        android:name="com.bensek.mlkitdocumentscanner.HomeFragment"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        tools:layout="@layout/fragment_home">
 
     </fragment>
 </navigation>
